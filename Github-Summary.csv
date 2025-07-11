@@ -1,0 +1,59 @@
+,Unnamed: 0,Date,season,Match No.,team1,team2,venue,toss_winner,toss_loser,toss_decision,is_superover,winner,loser,won_by_wickets,won_by_runs,player_of_match
+0,0,18-04-2008,2008,1,Royal Challengers Bangalore,Kolkata Knight Riders,"M.Chinnaswamy Stadium, Bengaluru",Royal Challengers Bangalore,Kolkata Knight Riders,field,False,Kolkata Knight Riders,Royal Challengers Bangalore,0,140,BB McCullum
+1,1,19-04-2008,2008,2,Punjab Kings,Chennai Super Kings,"Punjab Cricket Association IS Bindra Stadium, Mohali",Chennai Super Kings,Punjab Kings,bat,False,Chennai Super Kings,Punjab Kings,0,33,MEK Hussey
+2,2,19-04-2008,2008,3,Delhi Capitals,Rajasthan Royals,"Arun Jaitley Stadium, Delhi",Rajasthan Royals,Delhi Capitals,bat,False,Delhi Capitals,Rajasthan Royals,9,0,MF Maharoof
+3,3,20-04-2008,2008,5,Mumbai Indians,Royal Challengers Bangalore,"Wankhede Stadium, Mumbai",Mumbai Indians,Royal Challengers Bangalore,bat,False,Royal Challengers Bangalore,Mumbai Indians,5,0,MV Boucher
+4,4,20-04-2008,2008,4,Kolkata Knight Riders,Deccan Chargers,"Eden Gardens, Kolkata",Deccan Chargers,Kolkata Knight Riders,bat,False,Kolkata Knight Riders,Deccan Chargers,5,0,DJ Hussey
+5,5,21-04-2008,2008,6,Rajasthan Royals,Punjab Kings,"Sawai Mansingh Stadium, Jaipur",Punjab Kings,Rajasthan Royals,bat,False,Rajasthan Royals,Punjab Kings,6,0,SR Watson
+6,6,22-04-2008,2008,7,Deccan Chargers,Delhi Capitals,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",Deccan Chargers,Delhi Capitals,bat,False,Delhi Capitals,Deccan Chargers,9,0,V Sehwag
+7,7,23-04-2008,2008,8,Chennai Super Kings,Mumbai Indians,"MA Chidambaram Stadium, Chepauk, Chennai",Mumbai Indians,Chennai Super Kings,field,False,Chennai Super Kings,Mumbai Indians,0,6,ML Hayden
+8,8,24-04-2008,2008,9,Deccan Chargers,Rajasthan Royals,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",Rajasthan Royals,Deccan Chargers,field,False,Rajasthan Royals,Deccan Chargers,3,0,YK Pathan
+9,9,25-04-2008,2008,10,Punjab Kings,Mumbai Indians,"Punjab Cricket Association IS Bindra Stadium, Mohali",Mumbai Indians,Punjab Kings,field,False,Punjab Kings,Mumbai Indians,0,66,KC Sangakkara
+10,10,26-04-2008,2008,12,Royal Challengers Bangalore,Rajasthan Royals,"M.Chinnaswamy Stadium, Bengaluru",Rajasthan Royals,Royal Challengers Bangalore,field,False,Rajasthan Royals,Royal Challengers Bangalore,7,0,SR Watson
+11,11,26-04-2008,2008,11,Chennai Super Kings,Kolkata Knight Riders,"MA Chidambaram Stadium, Chepauk, Chennai",Kolkata Knight Riders,Chennai Super Kings,bat,False,Chennai Super Kings,Kolkata Knight Riders,9,0,JDP Oram
+12,12,27-04-2008,2008,14,Mumbai Indians,Deccan Chargers,"Dr DY Patil Sports Academy, Mumbai",Deccan Chargers,Mumbai Indians,field,False,Deccan Chargers,Mumbai Indians,10,0,AC Gilchrist
+13,13,27-04-2008,2008,13,Punjab Kings,Delhi Capitals,"Punjab Cricket Association IS Bindra Stadium, Mohali",Delhi Capitals,Punjab Kings,bat,False,Punjab Kings,Delhi Capitals,4,0,SM Katich
+14,14,28-04-2008,2008,15,Royal Challengers Bangalore,Chennai Super Kings,"M.Chinnaswamy Stadium, Bengaluru",Chennai Super Kings,Royal Challengers Bangalore,bat,False,Chennai Super Kings,Royal Challengers Bangalore,0,13,MS Dhoni
+15,15,29-04-2008,2008,16,Kolkata Knight Riders,Mumbai Indians,"Eden Gardens, Kolkata",Kolkata Knight Riders,Mumbai Indians,bat,False,Mumbai Indians,Kolkata Knight Riders,7,0,ST Jayasuriya
+16,16,30-04-2008,2008,17,Delhi Capitals,Royal Challengers Bangalore,"Arun Jaitley Stadium, Delhi",Royal Challengers Bangalore,Delhi Capitals,field,False,Delhi Capitals,Royal Challengers Bangalore,0,10,GD McGrath
+17,17,01-05-2008,2008,19,Deccan Chargers,Punjab Kings,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",Punjab Kings,Deccan Chargers,field,False,Punjab Kings,Deccan Chargers,7,0,SE Marsh
+18,18,01-05-2008,2008,18,Rajasthan Royals,Kolkata Knight Riders,"Sawai Mansingh Stadium, Jaipur",Rajasthan Royals,Kolkata Knight Riders,bat,False,Rajasthan Royals,Kolkata Knight Riders,0,45,SA Asnodkar
+19,19,02-05-2008,2008,20,Chennai Super Kings,Delhi Capitals,"MA Chidambaram Stadium, Chepauk, Chennai",Chennai Super Kings,Delhi Capitals,bat,False,Delhi Capitals,Chennai Super Kings,8,0,V Sehwag
+20,20,03-05-2008,2008,22,Punjab Kings,Kolkata Knight Riders,"Punjab Cricket Association IS Bindra Stadium, Mohali",Punjab Kings,Kolkata Knight Riders,bat,False,Punjab Kings,Kolkata Knight Riders,0,9,IK Pathan
+21,21,03-05-2008,2008,21,Royal Challengers Bangalore,Deccan Chargers,"M.Chinnaswamy Stadium, Bengaluru",Deccan Chargers,Royal Challengers Bangalore,field,False,Royal Challengers Bangalore,Deccan Chargers,0,3,P Kumar
+22,22,04-05-2008,2008,23,Mumbai Indians,Delhi Capitals,"Dr DY Patil Sports Academy, Mumbai",Delhi Capitals,Mumbai Indians,field,False,Mumbai Indians,Delhi Capitals,0,29,SM Pollock
+23,23,04-05-2008,2008,24,Rajasthan Royals,Chennai Super Kings,"Sawai Mansingh Stadium, Jaipur",Chennai Super Kings,Rajasthan Royals,bat,False,Rajasthan Royals,Chennai Super Kings,8,0,Sohail Tanvir
+24,24,05-05-2008,2008,25,Royal Challengers Bangalore,Punjab Kings,"M.Chinnaswamy Stadium, Bengaluru",Punjab Kings,Royal Challengers Bangalore,field,False,Punjab Kings,Royal Challengers Bangalore,6,0,S Sreesanth
+25,25,06-05-2008,2008,26,Chennai Super Kings,Deccan Chargers,"MA Chidambaram Stadium, Chepauk, Chennai",Deccan Chargers,Chennai Super Kings,field,False,Deccan Chargers,Chennai Super Kings,7,0,AC Gilchrist
+26,26,07-05-2008,2008,27,Mumbai Indians,Rajasthan Royals,"Dr DY Patil Sports Academy, Mumbai",Mumbai Indians,Rajasthan Royals,field,False,Mumbai Indians,Rajasthan Royals,7,0,A Nehra
+27,27,08-05-2008,2008,28,Delhi Capitals,Chennai Super Kings,"Arun Jaitley Stadium, Delhi",Chennai Super Kings,Delhi Capitals,field,False,Chennai Super Kings,Delhi Capitals,4,0,MS Dhoni
+28,28,08-05-2008,2008,29,Kolkata Knight Riders,Royal Challengers Bangalore,"Eden Gardens, Kolkata",Kolkata Knight Riders,Royal Challengers Bangalore,bat,False,Kolkata Knight Riders,Royal Challengers Bangalore,0,5,SC Ganguly
+29,29,09-05-2008,2008,30,Rajasthan Royals,Deccan Chargers,"Sawai Mansingh Stadium, Jaipur",Rajasthan Royals,Deccan Chargers,field,False,Rajasthan Royals,Deccan Chargers,8,0,YK Pathan
+30,30,10-05-2008,2008,31,Chennai Super Kings,Punjab Kings,"MA Chidambaram Stadium, Chepauk, Chennai",Punjab Kings,Chennai Super Kings,field,False,Chennai Super Kings,Punjab Kings,0,18,L Balaji
+31,31,11-05-2008,2008,32,Deccan Chargers,Kolkata Knight Riders,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",Kolkata Knight Riders,Deccan Chargers,bat,False,Kolkata Knight Riders,Deccan Chargers,0,23,SC Ganguly
+32,32,11-05-2008,2008,33,Rajasthan Royals,Delhi Capitals,"Sawai Mansingh Stadium, Jaipur",Rajasthan Royals,Delhi Capitals,field,False,Rajasthan Royals,Delhi Capitals,3,0,SR Watson
+33,33,12-05-2008,2008,34,Punjab Kings,Royal Challengers Bangalore,"Punjab Cricket Association IS Bindra Stadium, Mohali",Royal Challengers Bangalore,Punjab Kings,bat,False,Punjab Kings,Royal Challengers Bangalore,9,0,SE Marsh
+34,34,13-05-2008,2008,35,Kolkata Knight Riders,Delhi Capitals,"Eden Gardens, Kolkata",Kolkata Knight Riders,Delhi Capitals,bat,False,Kolkata Knight Riders,Delhi Capitals,0,23,Shoaib Akhtar
+35,35,14-05-2008,2008,36,Mumbai Indians,Chennai Super Kings,"Wankhede Stadium, Mumbai",Mumbai Indians,Chennai Super Kings,field,False,Mumbai Indians,Chennai Super Kings,9,0,ST Jayasuriya
+36,36,15-05-2008,2008,37,Delhi Capitals,Deccan Chargers,"Arun Jaitley Stadium, Delhi",Deccan Chargers,Delhi Capitals,field,False,Delhi Capitals,Deccan Chargers,0,12,A Mishra
+37,37,16-05-2008,2008,38,Mumbai Indians,Kolkata Knight Riders,"Wankhede Stadium, Mumbai",Mumbai Indians,Kolkata Knight Riders,field,False,Mumbai Indians,Kolkata Knight Riders,8,0,SM Pollock
+38,38,17-05-2008,2008,40,Delhi Capitals,Punjab Kings,"Arun Jaitley Stadium, Delhi",Delhi Capitals,Punjab Kings,bat,False,Punjab Kings,Delhi Capitals,0,6,DPMD Jayawardene
+39,39,17-05-2008,2008,39,Rajasthan Royals,Royal Challengers Bangalore,"Sawai Mansingh Stadium, Jaipur",Royal Challengers Bangalore,Rajasthan Royals,field,False,Rajasthan Royals,Royal Challengers Bangalore,0,65,GC Smith
+40,40,18-05-2008,2008,42,Deccan Chargers,Mumbai Indians,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",Deccan Chargers,Mumbai Indians,field,False,Mumbai Indians,Deccan Chargers,0,25,DJ Bravo
+41,41,18-05-2008,2008,41,Kolkata Knight Riders,Chennai Super Kings,"Eden Gardens, Kolkata",Kolkata Knight Riders,Chennai Super Kings,bat,False,Chennai Super Kings,Kolkata Knight Riders,0,3,M Ntini
+42,42,19-05-2008,2008,43,Royal Challengers Bangalore,Delhi Capitals,"M.Chinnaswamy Stadium, Bengaluru",Delhi Capitals,Royal Challengers Bangalore,field,False,Delhi Capitals,Royal Challengers Bangalore,5,0,SP Goswami
+43,43,20-05-2008,2008,44,Kolkata Knight Riders,Rajasthan Royals,"Eden Gardens, Kolkata",Rajasthan Royals,Kolkata Knight Riders,field,False,Rajasthan Royals,Kolkata Knight Riders,6,0,YK Pathan
+44,44,21-05-2008,2008,45,Mumbai Indians,Punjab Kings,"Wankhede Stadium, Mumbai",Mumbai Indians,Punjab Kings,field,False,Punjab Kings,Mumbai Indians,0,1,SE Marsh
+45,45,21-05-2008,2008,46,Chennai Super Kings,Royal Challengers Bangalore,"MA Chidambaram Stadium, Chepauk, Chennai",Royal Challengers Bangalore,Chennai Super Kings,bat,False,Royal Challengers Bangalore,Chennai Super Kings,0,14,A Kumble
+46,46,23-05-2008,2008,48,Punjab Kings,Deccan Chargers,"Punjab Cricket Association IS Bindra Stadium, Mohali",Punjab Kings,Deccan Chargers,field,False,Punjab Kings,Deccan Chargers,6,0,SE Marsh
+47,47,24-05-2008,2008,50,Delhi Capitals,Mumbai Indians,"Arun Jaitley Stadium, Delhi",Delhi Capitals,Mumbai Indians,field,False,Delhi Capitals,Mumbai Indians,5,0,KD Karthik
+48,48,24-05-2008,2008,49,Chennai Super Kings,Rajasthan Royals,"MA Chidambaram Stadium, Chepauk, Chennai",Rajasthan Royals,Chennai Super Kings,bat,False,Rajasthan Royals,Chennai Super Kings,0,10,JA Morkel
+49,49,25-05-2008,2008,51,Deccan Chargers,Royal Challengers Bangalore,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",Deccan Chargers,Royal Challengers Bangalore,bat,False,Royal Challengers Bangalore,Deccan Chargers,5,0,R Vinay Kumar
+50,50,25-05-2008,2008,52,Kolkata Knight Riders,Punjab Kings,"Eden Gardens, Kolkata",Punjab Kings,Kolkata Knight Riders,bat,False,Kolkata Knight Riders,Punjab Kings,3,0,Umar Gul
+51,51,26-05-2008,2008,53,Rajasthan Royals,Mumbai Indians,"Sawai Mansingh Stadium, Jaipur",Rajasthan Royals,Mumbai Indians,field,False,Rajasthan Royals,Mumbai Indians,5,0,Sohail Tanvir
+52,52,27-05-2008,2008,54,Deccan Chargers,Chennai Super Kings,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",Deccan Chargers,Chennai Super Kings,bat,False,Chennai Super Kings,Deccan Chargers,7,0,SK Raina
+53,53,28-05-2008,2008,55,Royal Challengers Bangalore,Mumbai Indians,"M.Chinnaswamy Stadium, Bengaluru",Mumbai Indians,Royal Challengers Bangalore,field,False,Mumbai Indians,Royal Challengers Bangalore,9,0,CRD Fernando
+54,54,28-05-2008,2008,56,Punjab Kings,Rajasthan Royals,"Punjab Cricket Association IS Bindra Stadium, Mohali",Rajasthan Royals,Punjab Kings,field,False,Punjab Kings,Rajasthan Royals,0,41,SE Marsh
+55,55,30-05-2008,2008,SF1,Delhi Capitals,Rajasthan Royals,"Wankhede Stadium, Mumbai",Delhi Capitals,Rajasthan Royals,field,False,Rajasthan Royals,Delhi Capitals,0,105,SR Watson
+56,56,31-05-2008,2008,SF2,Chennai Super Kings,Punjab Kings,"Wankhede Stadium, Mumbai",Punjab Kings,Chennai Super Kings,bat,False,Chennai Super Kings,Punjab Kings,9,0,M Ntini
+57,57,01-06-2008,2008,Final,Chennai Super Kings,Rajasthan Royals,"Dr DY Patil Sports Academy, Mumbai",Rajasthan Royals,Chennai Super Kings,field,False,Rajasthan Royals,Chennai Super Kings,3,0,YK Pathan
